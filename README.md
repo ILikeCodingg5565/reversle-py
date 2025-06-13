@@ -2,6 +2,9 @@
 
 **reversle-py** is a lightweight Python-based reverse shell with a Chrome-based web GUI, designed for **educational** use.
 
+## ⚠️WARNING
+If you do send this to someone, they can decompile it and get your IP address.
+
 ## 🚀 Features
 
 - 📡 Reverse shell connection over IP
