@@ -22,10 +22,10 @@ pip install -r requirements.txt
 python server.py
 
 # 4. On the victim machine:
-#    - Open 'victim.py'
-#    - Set the server IP address (line marked clearly in the file) and port
-#    - Save and compile to an EXE   
-#    - Send to victim
+    - Open 'victim.py'
+    - Set the server IP address (line marked clearly in the file) and port
+    - Save and compile to an EXE   
+    - Send to victim
 ```
 
 The web GUI will be available at:  
